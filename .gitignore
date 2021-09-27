@@ -105,3 +105,6 @@ dist
 
 # Editor
 .idea
+
+# Mac
+.DS_Store
